@@ -2,4 +2,6 @@ BlogReader
 ==========
 
 TeamTreehouse
-Demo about ListView and how to manipulate data and show them on the list
+How to get data in JSON format via API
+How to adapt those data to the ListView
+
